@@ -1,3 +1,3 @@
-# tomiwaaluko.github.io
+# ePortfolio Website
 
-My ePortfolio website! 
+Feel free to browse around my website to find a little about myself!
